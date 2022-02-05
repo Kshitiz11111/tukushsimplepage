@@ -1,0 +1,135 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:LightGray;
+}
+body:hover{
+	background-color:#b7cbe1;
+}
+.ho:hover{
+background-color:yellow;
+}
+
+h1{
+	color:yellow;
+}
+.head{
+	background: linear-gradient(to bottom right, #33ccff -7%, #ff99cc 60%);
+	font-size:60px;
+	
+}
+
+#search{
+	text-align:right;
+	margin-top:-70px;
+	margin-right:20px;
+	
+}
+
+
+.ho{
+ background-color:Tomato;
+  color: white;
+
+}
+#scholar{
+	background-color:YellowGreen;
+}
+.scholar{
+	width:100%;
+	height:100vh;
+	background-image: linear-gradient(
+	45deg,
+	rgba(118,34,255,0.6),
+	rgba(131,51,238,0.6)
+	),
+	url(scholar.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.topic{
+	font-size:65px;
+	font-family:Calibri;
+	text-shadow: 3px 3px;
+	text-align:center;
+	color:white;
+	display:flex;
+	justify-content:center;
+	
+}
+.discription{
+	font-size:48px;
+	font-family:Calibri;
+	text-shadow: 2px 2px;
+	text-align:center;
+	color:white;
+	margin-top:200px;
+}
+footer{
+	background-color:#6a6caf;
+	color:white;
+}
+
+
+.ft{
+	color:white;
+}
+
+form{text-align:right;
+	margin-top:-420px;
+	margin-right:50px;
+	color:white
+}
+.too{
+	color:white;
+}
+#fname{
+	height:35px;
+	width:290px;
+	font-size:18px;
+	text-align:center;
+}
+
+#message{
+	width:290px;
+	height:150px;
+	text-align:center;
+	font-size:20px;
+	
+}
+#lname{
+	width:290px;
+	height:35px;
+	text-align:center;
+	font-size:18px;
+}
+.rock{
+	margin-right:134px;
+	color:white;
+}
+.rocky{
+	margin-right:118px;
+	color:white;
+}
+.lo{
+	text-align:center;
+	margin-top:-280px;
+}
+#sear{
+	width:4cm;
+	height:1cm;
+	color:HotPink;
+	background-color:GreenYellow;
+	margin-right:140px;
+}
+.develop{
+	background-color:#6495ED;
+	color:white;
+	font-family:Calibri;
+	padding-top:10px;
+	margin-top:-10px;
+	padding-bottom:20px;
+}
